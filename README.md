@@ -1,16 +1,15 @@
-## Hi there 👋
+# The Glitch Fixer
 
-<!--
-**TheGlitchFixer/TheGlitchFixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fixing AI tools, apps, games & tech errors — step-by-step troubleshooting guides. New fixes daily.
 
-Here are some ideas to get you started:
+🌐 **Blog:** https://theglitchfixer.blogspot.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I publish
+- 🤖 AI tool fixes & guides (ChatGPT, Claude, Gemini, Midjourney…)
+- 🎮 App & game error solutions
+- 💻 Windows / macOS / Linux troubleshooting
+
+## Featured guides
+- [Character.AI Shutdown: Save Your Chats + 5 Alternatives](https://theglitchfixer.blogspot.com/2026/10/characterai-shutdown-save-your-chats-5.html)
+- [OpenAI Dots: How to Set Up & Use ChatGPT's Always-On AI Agent](https://theglitchfixer.blogspot.com/2026/10/openai-dots-how-to-set-up-use-chatgpts.html)
+- [Muse Wonder: How to Get Access, Pricing & Fixes](https://theglitchfixer.blogspot.com/2026/10/muse-wonder-how-to-get-access-pricing.html)
